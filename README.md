@@ -1,5 +1,5 @@
 # NIMISH SAMANT
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedInName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nimishsamant)](https://www.linkedin.com/in/nimishsamant/)
+[![Linkedin Badge](https://img.shields.io/badge/-Nimish Samant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nimishsamant)](https://www.linkedin.com/in/nimishsamant/)
 [![Gmail Badge](https://img.shields.io/badge/-nimish.samant@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nimish.samant@gmail.com)](mailto:nimish.samant@gmail.com)
 
 ## Hi 👋, 
@@ -12,4 +12,4 @@ I'm also .
 -  ⚡ Languages: Python3
 
 ---
-⭐️ From (URL)
+⭐️ From bhargav-joshi(url)
