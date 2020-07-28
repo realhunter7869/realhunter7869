@@ -1,5 +1,5 @@
 # NIMISH SAMANT
-[![Linkedin Badge](https://img.shields.io/badge/-Nimish Samant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nimishsamant)](https://www.linkedin.com/in/nimishsamant/)
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="nimishsamant"><a class="LI-simple-link" href='https://in.linkedin.com/in/nimishsamant?trk=profile-badge'>NIMISH SAMANT</a></div>
 [![Gmail Badge](https://img.shields.io/badge/-nimish.samant@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nimish.samant@gmail.com)](mailto:nimish.samant@gmail.com)
 
 ## Hi 👋, 
@@ -8,7 +8,7 @@ I'm also .
 
 - 🔭 I’m currently working on Data Science R Programming 
 - 🌱 I’m currently learning JavaScript
-- 💬 Ask me about: What you want
+- 💬 Ask me about: Code 
 -  ⚡ Languages: Python3
 
 ---
