@@ -1,4 +1,7 @@
 <h1 align="center"> Nimish Samant </h1>
+<p align="center">
+  <img src="coding-freak.gif" alt="coding-freak">
+</p>
 <h3 align="center"> TechnoPhile </h3>
 
 <h2 align="center"> Tech Stack </h2>
