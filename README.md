@@ -24,6 +24,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img alt="Grunt" src="https://img.shields.io/static/v1?style=for-the-badge&message=Grunt&color=222222&logo=Grunt&logoColor=FAA918&label=" />
 </p>
 <h3 align="center"> Databases </h3>
 <p align="center">
