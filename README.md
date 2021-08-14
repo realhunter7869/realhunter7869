@@ -32,7 +32,7 @@
 <p align="center">
   <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Oracle" src="https://img.shields.io/badge/oracle-%23DD0031.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
+  <img alt="OracleSQL" src="https://img.shields.io/badge/oracle-%23DD0031.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 <h3 align="center"> Libraries & Frameworks </h3>
