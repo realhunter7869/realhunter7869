@@ -61,7 +61,7 @@
 <h2 align="center"> GitHub Stats </h2>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=RealHunter7869&show_icons=true&theme=gotham" alt="Nimish Samant" />
-  <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realhunter7869&theme=gotham" /-->
+  <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realhunter7869&theme=gotham"/-->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RealHunter7869&theme=blue-green" alt="Nimish Samant" />
 </p>
 
