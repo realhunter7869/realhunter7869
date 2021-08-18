@@ -1,6 +1,6 @@
 <h1 align="center"> Nimish Samant </h1>
 <p align="center">
-  <img src="coder.gif" alt="coder" />
+  <img src="coder.gif" alt="codergif" />
 </p>
 <h3 align="center"> TechnoPhile </h3>
 
